@@ -15,8 +15,8 @@ For many assemblies, the graphics do not work properly (black or pink screen or 
 | GPU (External)       | -                       | -             |
 | RAM                  | 2x8GB DDR-4             | Yes           |
 | NVMe (Boot Drive)    | 256GB                   | Yes           |
-| SSD                  | -                       | -             |
-| HDD                  | -                       | -             |
+| SSD                  | -                       | Yes           |
+| HDD                  | -                       | Yes, All      |
 | Audio                | ALC897                  | Yes           |
 | Ethernet             | Intel® GbE LAN          | Yes           |
 | Wireless (WiFi & BT) | -                       | -             |
