@@ -2,6 +2,8 @@
 
 This repository contains a ready-to-use EFI of my budget build hackintosh.
 
+Plz: before use replace serial number and uuid
+
 ![](https://github.com/shmelevdi/Gigabyte-B460M-DS3H-Hackintosh/blob/main/Screenshots/4.png?raw=true|width=100)
 
 For many assemblies, the graphics do not work properly (black or pink screen or there is no acceleration), here everything works completely (I checked it in Dota2 and CS: GO games)
