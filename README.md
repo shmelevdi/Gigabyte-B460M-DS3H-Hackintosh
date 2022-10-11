@@ -32,7 +32,7 @@ For many assemblies, the graphics do not work properly (black or pink screen or 
 
 ## macOS Catalina 10.15.7 with OpenCore for Gigabyte B460M DS3H
 
-![](https://github.com/shmelevdi/Gigabyte-B460M-DS3H-Hackintosh/blob/main/Screenshots/4.png?raw=true|width=100)
+![](https://github.com/shmelevdi/Gigabyte-B460M-DS3H-Hackintosh/blob/main/Screenshots/1.png?raw=true|width=100)
 
 For many assemblies, the graphics do not work properly (black or pink screen or there is no acceleration), here everything works completely (I checked it in Dota2 and CS: GO games)
 
